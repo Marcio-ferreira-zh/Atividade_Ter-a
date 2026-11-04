@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int n = 6;
-        // Arestas do grafo G2, conforme o enunciado do professor.
+        // Arestas do grafo
         int[][] arestas = {
             {0, 1}, {0, 4}, {1, 2}, {1, 4},
             {2, 3}, {3, 4}, {3, 5}
