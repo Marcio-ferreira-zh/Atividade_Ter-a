@@ -1,6 +1,6 @@
 # Atividade — Grafos I (G2)
 
-Trabalho de **Estrutura de Dados II**, seguindo a atividade da semana 09 do material do professor Ângelo Ferreira Guimarães.
+Trabalho de **Estrutura de Dados II**,  atividade do professor Ângelo Ferreira Guimarães.
 
 ## Enunciado
 
